@@ -1,7 +1,7 @@
 // Return elements larger than a number
 
-function elementsLargerThan(arr, num) {
-  return arr.filter((item) => item > num);
+function elementsLargerThan(arr, nums) {
+  return arr.filter((item) => item > nums);
 }
 
 let array = [10, 25, 5, 8, 30];
