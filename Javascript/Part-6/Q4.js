@@ -10,5 +10,5 @@ function countVowels(str) {
   return count;
 }
 
-let inputString = "Hello World";
+let inputString = "Hello Worlds";
 console.log(countVowels(inputString)); // Output: 3
