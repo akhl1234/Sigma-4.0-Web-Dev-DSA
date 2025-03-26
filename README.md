@@ -22,17 +22,22 @@ Sigma-4.0-Web-Dev-DSA/
 │
 ├── JavaScript/
 │   ├── Part-1/
-│   │   ├── Assignment-1/
-│   │   ├── Assignment-2/
-│   │   └── [Continue as needed]
+│   │   ├── Qs1.js
+│   │   ├── Qs2.js
+│   │   ├── Qs3.js
+│   │   ├── Qs4.js
+│   │   └── Qs5.js
 │   ├── Part-2/
-│   │   ├── Assignment-1/
-│   │   ├── Assignment-2/
-│   │   └── [Continue as needed]
 │   ├── Part-3/
 │   ├── Part-4/
 │   ├── Part-5/
-│   └── Part-6/
+│   ├── Part-6/
+│   ├── Part-7/
+│   ├── Part-8/
+│   └── Part-9/
+│       ├── Qs1.js
+│       ├── Qs2.js
+│       └── Qs3.js
 │
 └── [Future Folders to be Added]
 
