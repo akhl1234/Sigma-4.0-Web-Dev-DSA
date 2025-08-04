@@ -1,0 +1,1 @@
+Add breakpoints in browser DevTools on any JS function (like above) to see execution flow step by step. You can open DevTools → Sources → click on line number to set a breakpoint.
