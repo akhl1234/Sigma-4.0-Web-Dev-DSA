@@ -1,32 +1,26 @@
 # Sigma 4.0: Complete Web Development + DSA
 
-Welcome to the Sigma 4.0 repository! This repository is dedicated to the **Complete Web Development + Data Structures & Algorithms (DSA)** course by **Apna College**, taught by **Shraddha Khapra**.
+Welcome to the Sigma 4.0 repository! This repo contains code and assignments from the **Complete Web Development + Data Structures & Algorithms (DSA)** course by **Apna College** (Instructor: Shraddha Khapra).
 
-## 📚 Course Overview
+---
 
-This course provides a deep dive into modern web development technologies and essential DSA concepts. The course is structured in the following modules:
+## 📚 Course Modules
 
-1. **HTML**
-2. **CSS**
-3. **Bootstrap**
-4. **JavaScript (Parts 1-6)**
-5. [Future Modules to be Added]
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript (Parts 1–11)**
+- _More modules coming soon!_
+
+---
 
 ## 📂 Repository Structure
 
-The repository is organized into different folders, each corresponding to a specific module or assignment:
-
-```plaintext
+```
 Sigma-4.0-Web-Dev-DSA/
-
 │
-├── JavaScript/
-│   ├── Part-1/
-│   │   ├── Qs1.js
-│   │   ├── Qs2.js
-│   │   ├── Qs3.js
-│   │   ├── Qs4.js
-│   │   └── Qs5.js
+├── Javascript/
+│   ├── index.js
 │   ├── Part-2/
 │   ├── Part-3/
 │   ├── Part-4/
@@ -34,25 +28,51 @@ Sigma-4.0-Web-Dev-DSA/
 │   ├── Part-6/
 │   ├── Part-7/
 │   ├── Part-8/
-│   └── Part-9/
-│       ├── Qs1.js
-│       ├── Qs2.js
-│       └── Qs3.js
-│
-└── [Future Folders to be Added]
+│   ├── Part-9/
+│   ├── Part-10/
+│   └── Part-11/
+├── LICENSE
+└── README.md
+```
 
-🚀 How to Use This Repository
-Cloning the Repository: You can clone this repository to your local machine using the following command:
+Each `Part-X` folder contains assignment files (e.g., `Q1.js`, `Q2.js`, ...).
 
+---
 
-git clone https://github.com/akhl1234/Sigma-4.0-Web-Dev-DSA.git
-Navigating through Modules: Each folder corresponds to a specific module. Inside each module, you'll find assignments, projects, and related code.
+## 🚀 Quick Start
 
-Running the Code: You can run the HTML/CSS/JavaScript files directly in your browser. For more complex projects, specific instructions will be provided in the respective folders.
+1. **Clone the repository:**
 
-🌟 Course Instructor
-Shraddha Khapra
-Twitter: @shraddha_khapra
+   ```sh
+   git clone https://github.com/akhl1234/Sigma-4.0-Web-Dev-DSA.git
+   cd Sigma-4.0-Web-Dev-DSA
+   ```
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+2. **Run JavaScript examples:**
+
+   ```sh
+   node Javascript/Part-2/Q1.js
+   ```
+
+   _Replace `Part-2/Q1.js` with any file you want to run._
+
+---
+
+## 📝 How to Use
+
+- Browse each folder for assignments and solutions.
+- Run JavaScript files using Node.js as shown above.
+- For HTML/CSS, open files directly in your browser.
+
+---
+
+## 🌟 Instructor
+
+- **Shraddha Khapra**  
+  [Twitter: @shraddha_khapra](https://twitter.com/shraddha_khapra)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
